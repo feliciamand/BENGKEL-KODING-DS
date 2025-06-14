@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 # Load model
-model_rf = joblib.load(r"D:\feliz navidad\TUGAS KULIAH\BENGKEL KODING\UAS BENGKOD DS\PROGRESS UAS BENGKOD DS\PROGRESS 5_DEPLOYMENT\model_rf.pkl")
+model_rf = joblib.load(r"model_rf.pkl")
 
 
 # Judul aplikasi
